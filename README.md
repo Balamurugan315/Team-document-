@@ -358,3 +358,268 @@ The interaction between stakeholders follows a structured process:
 8. The Administrator oversees the entire process and ensures platform reliability.
 
 This role structure provides a clear division of responsibilities and supports efficient influencer marketing operations while remaining practical and achievable within a 3-month project development timeline.
+
+
+
+
+Targeted Markets and End Users
+
+The Influencer Marketing Analytics and Recommendation System is designed to support businesses, agencies, and individuals who leverage social media platforms to promote products and services. By providing influencer discovery, campaign management, performance tracking, and analytics capabilities, the platform caters to a wide range of users across the digital marketing ecosystem.
+
+---
+
+Targeted Markets
+
+1. Small and Medium Enterprises (SMEs)
+
+Small and Medium Enterprises often operate with limited marketing budgets and resources. These businesses need cost-effective marketing solutions that can deliver measurable results without significant investment.
+
+Characteristics
+
+- Limited marketing budgets.
+- Smaller marketing teams.
+- Focus on maximizing return on investment.
+
+Business Needs
+
+- Affordable influencer selection.
+- Campaign performance tracking.
+- Audience targeting and engagement analysis.
+- Data-driven marketing decisions.
+
+Benefits from the System
+
+The platform helps SMEs identify suitable influencers within their budget, reducing marketing risks and improving campaign effectiveness.
+
+---
+
+2. E-Commerce Businesses
+
+E-commerce businesses rely heavily on digital marketing to increase online visibility, attract customers, and drive sales. Influencer marketing has become an important channel for promoting products and generating customer trust.
+
+Characteristics
+
+- Online-first business model.
+- Focus on customer acquisition and sales conversion.
+- Dependence on social media traffic.
+
+Business Needs
+
+- Product promotion through influencers.
+- Conversion-focused campaigns.
+- Audience engagement tracking.
+- Performance and ROI measurement.
+
+Benefits from the System
+
+The platform enables e-commerce brands to identify influencers whose audiences closely match their target customers, leading to improved product visibility and sales opportunities.
+
+---
+
+3. Startups
+
+Startups often need rapid brand awareness and customer acquisition while operating with limited resources. They require marketing strategies that are both affordable and scalable.
+
+Characteristics
+
+- Limited marketing budgets.
+- Need for rapid market penetration.
+- Focus on brand awareness and growth.
+
+Business Needs
+
+- Affordable influencer discovery.
+- Audience targeting support.
+- Campaign performance monitoring.
+- Market visibility improvement.
+
+Benefits from the System
+
+The recommendation engine helps startups discover relevant influencers quickly and efficiently, allowing them to compete with larger organizations.
+
+---
+
+4. Digital Marketing Agencies
+
+Digital marketing agencies manage influencer campaigns for multiple clients simultaneously. They require advanced analytics, reporting tools, and centralized campaign management capabilities.
+
+Characteristics
+
+- Handle multiple campaigns and brands.
+- Need comprehensive performance reports.
+- Manage relationships with influencers.
+
+Business Needs
+
+- Influencer comparison tools.
+- Campaign monitoring dashboards.
+- Client reporting and analytics.
+- Multi-campaign management.
+
+Benefits from the System
+
+The platform provides agencies with centralized dashboards and analytical insights that simplify campaign management and improve client satisfaction.
+
+---
+
+5. Consumer Brands
+
+Consumer brands across industries such as fashion, beauty, fitness, food, technology, travel, lifestyle, and entertainment frequently collaborate with influencers to increase brand awareness and customer engagement.
+
+Characteristics
+
+- Large target audiences.
+- Frequent promotional campaigns.
+- High focus on brand image and reputation.
+
+Business Needs
+
+- Influencer selection and evaluation.
+- Audience engagement analysis.
+- Campaign effectiveness measurement.
+- Brand visibility enhancement.
+
+Benefits from the System
+
+The platform helps consumer brands identify influencers who align with their target audience and brand values, improving campaign performance and customer trust.
+
+---
+
+End Users
+
+The platform is designed to serve multiple stakeholders who interact with the influencer marketing process at different stages.
+
+1. Brand Managers
+
+Brand Managers are responsible for planning and executing influencer marketing campaigns. They are the primary decision-makers regarding influencer selection and campaign strategy.
+
+Responsibilities
+
+- Create marketing campaigns.
+- Define target audience and budget.
+- Search and select suitable influencers.
+- Monitor campaign performance.
+- Evaluate campaign success and ROI.
+
+Benefits
+
+- Faster influencer discovery.
+- Improved campaign planning.
+- Better marketing decision-making through analytics.
+
+---
+
+2. Marketing Executives
+
+Marketing Executives manage day-to-day campaign operations and coordinate communication between brands and influencers.
+
+Responsibilities
+
+- Manage influencer outreach.
+- Coordinate campaign execution.
+- Track engagement metrics.
+- Generate campaign reports.
+- Monitor ongoing campaign activities.
+
+Benefits
+
+- Simplified campaign management.
+- Easy access to campaign analytics.
+- Improved productivity and reporting.
+
+---
+
+3. Digital Marketing Agencies
+
+Agencies use the platform to manage multiple clients and campaigns efficiently.
+
+Responsibilities
+
+- Manage client campaigns.
+- Compare influencer performance.
+- Generate client-facing reports.
+- Analyze campaign effectiveness.
+
+Benefits
+
+- Centralized campaign management.
+- Enhanced reporting capabilities.
+- Improved client service delivery.
+
+---
+
+4. Influencers
+
+Influencers use the platform to manage their profiles, participate in campaigns, and monitor their performance.
+
+Responsibilities
+
+- Maintain profile information.
+- Update audience and engagement statistics.
+- Participate in brand campaigns.
+- Track campaign performance.
+
+Benefits
+
+- Increased visibility to brands.
+- Better campaign opportunities.
+- Access to personal performance analytics.
+
+---
+
+5. Administrators
+
+Administrators manage platform operations and ensure smooth system functioning.
+
+Responsibilities
+
+- Manage users and permissions.
+- Maintain influencer and campaign databases.
+- Monitor platform performance.
+- Ensure data quality and security.
+
+Benefits
+
+- Centralized system control.
+- Improved operational efficiency.
+- Better data governance and management.
+
+---
+
+Primary End User
+
+The primary end users of the system are Brand Managers and Marketing Executives. These users interact with the platform most frequently to identify suitable influencers, evaluate campaign opportunities, monitor campaign performance, and make strategic marketing decisions.
+
+The analytics dashboard provides them with visual insights into influencer performance, audience demographics, engagement trends, campaign effectiveness, and overall return on investment.
+
+---
+
+Expected Benefits for End Users
+
+Faster Influencer Discovery
+
+Reduces the time required to manually search and evaluate influencers by providing automated recommendations.
+
+Improved Audience Targeting
+
+Helps brands identify influencers whose audience aligns closely with their target market.
+
+Better Campaign Planning
+
+Provides campaign insights and performance data that support strategic decision-making.
+
+Reduced Marketing Risk
+
+Minimizes the likelihood of selecting influencers with low engagement or fraudulent follower bases.
+
+Enhanced Data Visualization
+
+Interactive dashboards transform complex campaign data into easy-to-understand charts, graphs, and reports.
+
+Improved Marketing ROI
+
+Enables organizations to optimize influencer selection and campaign budgets, resulting in better returns on marketing investments.
+
+Data-Driven Decision Making
+
+Provides actionable insights that help brands continuously improve their influencer marketing strategies and achieve business objectives.
