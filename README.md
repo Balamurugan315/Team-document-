@@ -632,3 +632,14 @@ The Influencer Marketing Analytics and Recommendation System is a Customer and M
 The system enables brands to define campaign requirements and receive influencer recommendations based on audience relevance, engagement rate, platform preference, and budget compatibility. A key feature of the platform is an interactive analytics dashboard that visualizes important metrics such as influencer performance, campaign reach, engagement rates, audience demographics, and recommendation rankings. These insights help organizations make data-driven marketing decisions and improve campaign effectiveness.
 
 The primary users of the system include brand managers, marketing executives, digital marketing agencies, administrators, and influencers. By simplifying influencer discovery, campaign analysis, and performance tracking, the proposed solution aims to improve audience targeting, optimize marketing investments, and maximize the overall impact of influencer marketing campaigns.
+
+Influencer Marketing: A Systematic Literature Review and Future Research Agenda
+https://doi.org/10.1016/j.jbusres.2018.12.069⁠�
+Social Media Influencers: A Route to Brand Engagement for Their Followers
+https://doi.org/10.1016/j.jretconser.2019.01.011⁠�
+Influencer Marketing: How Message Value and Credibility Affect Consumer Trust of Branded Content on Social Media
+https://doi.org/10.1080/15252019.2018.1533501⁠�
+A Survey of Recommendation Systems: Algorithms, Applications and Evaluation Metrics
+https://doi.org/10.1016/j.eij.2015.06.005⁠�
+The Paradigm-Shift of Social Spambots: Evidence, Theories, and Tools for the Arms Race
+https://doi.org/10.1145/3126975.3126988⁠�
