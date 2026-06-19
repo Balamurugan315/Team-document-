@@ -643,3 +643,16 @@ A Survey of Recommendation Systems: Algorithms, Applications and Evaluation Metr
 https://doi.org/10.1016/j.eij.2015.06.005⁠�
 The Paradigm-Shift of Social Spambots: Evidence, Theories, and Tools for the Arms Race
 https://doi.org/10.1145/3126975.3126988⁠�
+
+
+
+
+
+
+
+
+Simple Problem Statement
+
+Brands often struggle to choose the right influencers for marketing because many influencers have fake followers or fake engagement, which makes their popularity misleading. Even genuine influencers may not have an audience that matches the brand's target customers, leading to ineffective campaigns.
+
+It is also difficult to measure the real return on investment (ROI) since likes and views do not directly reflect sales, and tracking actual conversions is not always reliable. In addition, identifying new and emerging influencers at the right time is challenging
