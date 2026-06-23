@@ -1,4 +1,48 @@
-Theme Overview
+Send Collaboration Requests,US-AU-19,"As a brand, I want to send collaboration requests to influencers so that I can initiate partnerships.","Brand can select influencer, enter campaign details, and send request successfully.",5,High
+
+View Collaboration Requests,US-AU-20,"As an influencer, I want to view incoming collaboration requests so that I can evaluate opportunities.","All received requests displayed with campaign details and status.",3,High
+
+Accept Collaboration Requests,US-AU-21,"As an influencer, I want to accept collaboration requests so that I can participate in campaigns.","Accepted request status updated and notification sent to brand.",3,High
+
+Reject Collaboration Requests,US-AU-22,"As an influencer, I want to reject collaboration requests so that I can decline unsuitable opportunities.","Rejected request status updated and notification sent to brand.",3,High
+
+Manage Collaboration Status,US-AU-23,"As a user, I want collaboration status to be tracked so that campaign progress is visible.","Statuses include Pending, Accepted, Rejected, Active, and Completed.",5,High
+
+View Collaboration History,US-AU-24,"As a user, I want to view previous collaborations so that I can review past campaigns.","Completed and past collaborations displayed with details.",3,Medium
+
+Cancel Collaboration Requests,US-AU-25,"As a brand, I want to withdraw pending collaboration requests so that I can stop unwanted campaigns.","Only pending requests can be cancelled and status updated accordingly.",3,Medium
+
+Collaboration Notifications,US-AU-26,"As a user, I want to receive collaboration notifications so that I stay informed about requests and updates.","Notifications generated for new requests, approvals, rejections, and status changes.",5,High
+
+Account Status Notifications,US-AU-27,"As a user, I want notifications regarding account verification and approval status so that I know when my account is active.","Notifications sent when account is approved, rejected, or requires action.",3,Medium
+
+Track Campaign Progress,US-AU-28,"As a brand, I want to monitor campaign progress so that I can track ongoing collaborations.","Campaign milestones and progress updates displayed in real time.",8,High
+
+Track Campaign Performance,US-AU-29,"As a brand, I want to view campaign performance metrics so that I can evaluate campaign effectiveness.","Metrics such as reach, impressions, clicks, and engagement displayed accurately.",8,High
+
+View Influencer Analytics Dashboard,US-AU-30,"As an influencer, I want an analytics dashboard so that I can monitor engagement and collaboration performance.","Dashboard displays followers, engagement rates, campaign statistics, and trends.",8,High
+
+Generate Reports,US-AU-31,"As a user, I want reports generated automatically so that I can analyze campaign outcomes.","Reports generated in downloadable format with campaign and collaboration data.",8,Medium
+
+View Analytics Reports,US-AU-32,"As a brand or influencer, I want to view analytics reports so that I can make informed decisions.","Reports accessible through dashboard and updated regularly.",5,Medium
+
+Verify Influencers,US-AU-33,"As an admin, I want to verify influencer accounts so that only authentic influencers use the platform.","Admin can review submitted details and approve verification.",5,High
+
+Verify Brands,US-AU-34,"As an admin, I want to verify brand accounts so that only legitimate companies access the platform.","Admin can review company information and approve verification.",5,High
+
+Approve or Reject Accounts,US-AU-35,"As an admin, I want to approve or reject new accounts so that platform quality is maintained.","Admin decision updates account status and sends notification.",3,High
+
+Manage Users,US-AU-36,"As an admin, I want to manage user accounts so that platform access is controlled.","Admin can view, update, suspend, or reactivate user accounts.",8,High
+
+Monitor Platform Activities,US-AU-37,"As an admin, I want to monitor platform activities so that suspicious behavior can be identified.","Admin dashboard displays user actions, collaborations, and system logs.",8,Medium
+
+View Reports and Analytics,US-AU-38,"As an admin, I want access to platform-wide reports and analytics so that I can evaluate platform performance.","System provides dashboards and downloadable reports.",5,Medium
+
+Manage Categories,US-AU-39,"As an admin, I want to create, update, and delete gaming and esports categories so that influencer classification remains organized.","Category changes reflected immediately across the platform.",3,Medium
+
+Manage Platform Settings,US-AU-40,"As an admin, I want to configure platform settings and policies so that system operations can be managed efficiently.","Settings updates saved securely and applied successfully.",5,Medium
+
+Suspend or Reactivate Accounts,US-AU-41,"As an admin, I want to suspend or reactivate accounts when necessary so that platform integrity is maintained.","Admin can suspend/reactivate accounts and affected users receive notifications.",5,HighTheme Overview
 
 Influencer Marketing has emerged as one of the most effective digital marketing strategies, enabling brands to reach their target audiences through social media influencers and content creators. By leveraging the trust and credibility that influencers have built with their followers, brands can improve product awareness, customer engagement, and purchase decisions.
 
