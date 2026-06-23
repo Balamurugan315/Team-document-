@@ -764,3 +764,40 @@ It is also difficult to measure the real return on investment (ROI) since likes 
 
 
 
+Influencer Registration,US-AU-01,"As an influencer, I want to register by providing my details so that I can create an account and participate in campaigns.","All mandatory fields completed, valid email, unique account, password policy met, successful registration confirmation.",5,High
+
+Influencer Login,US-AU-02,"As an influencer, I want to log in using registered credentials so that I can access my account.","Valid credentials allow login, invalid credentials show error, dashboard displayed after login.",3,High
+
+Brand Registration,US-AU-03,"As a brand, I want to register by providing company information so that I can access influencers.","Company details validated, unique email, password policy enforced, registration successful.",5,High
+
+Brand Login,US-AU-04,"As a brand, I want to log in using registered credentials so that I can manage campaigns.","Valid credentials allow login, invalid credentials show error, dashboard displayed.",3,High
+
+Forgot Password,US-AU-05,"As a user, I want to reset my password through email verification so that I can regain account access.","Reset link/OTP sent, verification successful, new password saved securely.",5,High
+
+Account Verification,US-AU-06,"As a user, I want my account verified before activation so that platform authenticity is maintained.","Account remains inactive until verification, verification status visible.",8,High
+
+Update Influencer Profile,US-AU-07,"As an influencer, I want to update my profile information so that my profile remains accurate.","Profile updates saved successfully, mandatory fields validated.",3,High
+
+Add Social Media Handles,US-AU-08,"As an influencer, I want to manage social media handles so that brands can evaluate my reach.","Handles can be added, edited, deleted, and validated.",5,High
+
+Manage Portfolio and Achievements,US-AU-09,"As an influencer, I want to upload achievements and portfolio details so that brands can assess my credibility.","Files uploaded successfully, supported formats validated, details displayed.",8,High
+
+Set Promotion Prices,US-AU-10,"As an influencer, I want to define pricing for promotional activities so that brands know my rates.","Prices must be numeric, editable, and displayed in profile.",5,Medium
+
+View Profile Status,US-AU-11,"As an influencer, I want to view profile completion and verification status so that I know pending actions.","Status displayed accurately with completion percentage.",3,Medium
+
+Update Brand Profile,US-AU-12,"As a brand, I want to update company information so that my profile remains current.","Profile updates validated and saved successfully.",3,High
+
+Upload Brand Product Details,US-AU-13,"As a brand, I want to upload product information so that influencers can understand my offerings.","Product images and descriptions uploaded successfully.",5,High
+
+Manage Favorite Influencers,US-AU-14,"As a brand, I want to maintain a list of preferred influencers so that I can access them quickly.","Influencers can be added and removed from favorites.",3,Medium
+
+Search Influencers,US-AU-15,"As a brand, I want to search influencers using keywords so that I can find suitable candidates.","Relevant search results returned based on keywords.",5,High
+
+Filter Influencers,US-AU-16,"As a brand, I want to filter influencers based on category, audience size, engagement rate, and price range so that I can identify suitable influencers.","Multiple filters work together and return accurate results.",8,High
+
+View Influencer Profiles,US-AU-17,"As a brand, I want to view detailed influencer profiles so that I can evaluate collaboration opportunities.","Profile displays achievements, metrics, handles, and pricing.",3,High
+
+View Influencer Pricing,US-AU-18,"As a brand, I want to view influencer pricing so that I can make informed decisions.","Pricing information displayed accurately.",2,Medium
+
+
