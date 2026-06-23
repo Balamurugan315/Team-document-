@@ -1,3 +1,91 @@
+Influencer Registration,US-AU-01,"As an influencer, I want to register using personal and social media details, so that I can participate in campaigns.","Registration succeeds with valid details, unique email, secure password, and account creation confirmation displayed.",5,High
+
+Influencer Login,US-AU-02,"As an influencer, I want to log in securely, so that I can access my profile and collaborations.","Login succeeds with valid credentials, displays dashboard, rejects invalid credentials, and maintains secure authenticated session.",3,High
+
+Brand Registration,US-AU-03,"As a brand, I want to register company details, so that I can connect with suitable influencers.","Registration validates company information, unique email, password requirements, and successfully creates a new account.",5,High
+
+Brand Login,US-AU-04,"As a brand, I want to log in securely, so that I can manage influencer marketing campaigns.","Login validates credentials, grants dashboard access, rejects invalid attempts, and maintains secure user authentication.",3,High
+
+Forgot Password,US-AU-05,"As a user, I want to reset my password, so that I can regain access to my account.","Password reset link sent successfully, identity verified, and new password saved with security validation.",5,High
+
+Account Verification,US-AU-06,"As a user, I want account verification, so that trusted users can access platform features safely.","Verified accounts gain access, unverified accounts remain restricted, and verification status is clearly displayed.",8,High
+
+Update Influencer Profile,US-AU-07,"As an influencer, I want to update profile information, so that brands view accurate and current details.","Profile updates save successfully, mandatory fields validated, and modified information displayed immediately.",3,High
+
+Add Social Media Handles,US-AU-08,"As an influencer, I want to manage social handles, so that brands can evaluate my online presence.","Social handles added, edited, removed successfully, and invalid links rejected through validation checks.",5,High
+
+Manage Portfolio and Achievements,US-AU-09,"As an influencer, I want to upload achievements, so that brands can assess my credibility.","Portfolio files upload successfully, supported formats accepted, and achievements displayed correctly on profile.",8,High
+
+Set Promotion Prices,US-AU-10,"As an influencer, I want to define promotion pricing, so that brands understand my collaboration rates.","Prices added and updated successfully, positive values enforced, and pricing visible to interested brands.",5,Medium
+
+View Profile Status,US-AU-11,"As an influencer, I want to view profile status, so that I know completion progress.","Verification status displayed accurately, profile completion percentage calculated correctly, and missing details highlighted.",3,Medium
+
+Update Brand Profile,US-AU-12,"As a brand, I want to update company information, so that influencers see accurate details.","Profile updates saved successfully, required fields validated, and updated company information displayed correctly.",3,High
+
+Upload Brand Product Details,US-AU-13,"As a brand, I want to upload product details, so that influencers understand campaign offerings.","Product images and descriptions uploaded successfully, validated properly, and displayed within brand profile.",5,High
+
+Manage Favorite Influencers,US-AU-14,"As a brand, I want to save favorite influencers, so that I can access them quickly.","Influencers added and removed successfully, favorites list retained, and changes reflected immediately.",3,Medium
+
+Search Influencers,US-AU-15,"As a brand, I want to search influencers, so that I can find suitable candidates.","Keyword searches return relevant influencers, results displayed accurately, and search response remains efficient.",5,High
+
+Filter Influencers,US-AU-16,"As a brand, I want to filter influencers, so that I can identify suitable partners.","Filters apply correctly using category, audience, engagement, pricing, and return accurate influencer results.",8,High
+
+View Influencer Profiles,US-AU-17,"As a brand, I want to view influencer profiles, so that I can evaluate opportunities.","Profiles display audience metrics, achievements, pricing information, and social media account details.",3,High
+
+View Influencer Pricing,US-AU-18,"As a brand, I want to view influencer pricing, so that I can compare collaboration costs.","Pricing details displayed accurately, updates reflected immediately, and rates visible before collaboration requests.",2,Medium
+
+Send Collaboration Requests,US-AU-19,"As a brand, I want to send collaboration requests, so that I can initiate partnerships.","Request submitted successfully, campaign details included, influencer notified, and status marked as pending.",5,High
+
+View Collaboration Requests,US-AU-20,"As an influencer, I want to view collaboration requests, so that I can evaluate opportunities.","All incoming requests displayed clearly with campaign details, sender information, and current request status.",3,High
+
+Accept Collaboration Requests,US-AU-21,"As an influencer, I want to accept collaboration requests, so that I can join campaigns.","Accepted requests update status correctly, notify brands immediately, and appear in active collaborations.",3,High
+
+Reject Collaboration Requests,US-AU-22,"As an influencer, I want to reject collaboration requests, so that I can decline unsuitable campaigns.","Rejected requests update status correctly, notify brands immediately, and prevent campaign activation.",3,High
+
+Manage Collaboration Status,US-AU-23,"As a user, I want collaboration statuses managed, so that campaign progress remains visible.","Statuses update automatically between pending, accepted, active, completed, and rejected collaboration stages.",5,High
+
+View Collaboration History,US-AU-24,"As a user, I want collaboration history, so that I can review previous campaigns.","Past collaborations displayed accurately with campaign details, dates, outcomes, and historical performance records.",3,Medium
+
+Cancel Collaboration Requests,US-AU-25,"As a brand, I want to cancel pending requests, so that I can stop campaigns.","Pending requests cancelled successfully, influencer notified immediately, and request status updated appropriately.",3,Medium
+
+Collaboration Notifications,US-AU-26,"As a user, I want collaboration notifications, so that I stay informed about updates.","Notifications generated for requests, approvals, rejections, status changes, and delivered promptly.",5,High
+
+Account Status Notifications,US-AU-27,"As a user, I want account notifications, so that I know verification progress.","Notifications sent for approval, rejection, verification updates, and required actions needing attention.",3,Medium
+
+Track Campaign Progress,US-AU-28,"As a brand, I want campaign progress tracking, so that I can monitor activities.","Campaign milestones displayed accurately, progress updated regularly, and ongoing activities tracked effectively.",8,High
+
+Track Campaign Performance,US-AU-29,"As a brand, I want campaign performance metrics, so that I can measure effectiveness.","Performance metrics display reach, impressions, clicks, engagement, and campaign outcomes accurately.",8,High
+
+View Influencer Analytics Dashboard,US-AU-30,"As an influencer, I want analytics dashboards, so that I can monitor engagement statistics.","Dashboard displays follower growth, engagement metrics, collaboration statistics, and performance trends.",8,High
+
+Generate Reports,US-AU-31,"As a user, I want reports generated automatically, so that I can analyze results.","Reports generated successfully with campaign data, collaboration statistics, and downloadable report formats.",8,Medium
+
+View Analytics Reports,US-AU-32,"As a user, I want analytics reports, so that I can make informed decisions.","Reports accessible through dashboard, updated regularly, and display accurate performance information.",5,Medium
+
+Verify Influencers,US-AU-33,"As an admin, I want to verify influencers, so that only authentic users participate.","Admin reviews submitted details, approves verification, and updates influencer account status accordingly.",5,High
+
+Verify Brands,US-AU-34,"As an admin, I want to verify brands, so that only legitimate companies access platform.","Admin reviews company information, approves verification, and updates brand account status successfully.",5,High
+
+Approve or Reject Accounts,US-AU-35,"As an admin, I want to approve accounts, so that platform quality remains maintained.","Admin approves or rejects accounts, updates status immediately, and sends decision notifications.",3,High
+
+Manage Users,US-AU-36,"As an admin, I want to manage users, so that platform access remains controlled.","Admin views, updates, suspends, reactivates accounts, and manages user permissions effectively.",8,High
+
+Monitor Platform Activities,US-AU-37,"As an admin, I want activity monitoring, so that suspicious behavior is identified.","System displays user actions, collaboration activities, audit logs, and platform operation records.",8,Medium
+
+View Reports and Analytics,US-AU-38,"As an admin, I want platform analytics, so that I can evaluate performance.","Reports provide user statistics, collaboration insights, growth metrics, and operational analytics.",5,Medium
+
+Manage Categories,US-AU-39,"As an admin, I want category management, so that influencer classification remains organized.","Categories created, updated, deleted successfully, and reflected immediately throughout the platform.",3,Medium
+
+Manage Platform Settings,US-AU-40,"As an admin, I want platform settings management, so that operations remain configurable.","Settings updated securely, changes applied successfully, and policies managed through administration panel.",5,Medium
+
+Suspend or Reactivate Accounts,US-AU-41,"As an admin, I want account control, so that platform integrity remains protected.","Accounts suspended or reactivated successfully, notifications sent, and access permissions updated immediately.",5,High
+
+
+
+
+
+
+
 Send Collaboration Requests,US-AU-19,"As a brand, I want to send collaboration requests to influencers so that I can initiate partnerships.","Brand can select influencer, enter campaign details, and send request successfully.",5,High
 
 View Collaboration Requests,US-AU-20,"As an influencer, I want to view incoming collaboration requests so that I can evaluate opportunities.","All received requests displayed with campaign details and status.",3,High
