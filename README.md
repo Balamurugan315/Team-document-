@@ -652,7 +652,115 @@ https://doi.org/10.1145/3126975.3126988⁠�
 
 
 Simple Problem Statement
+____________________________________________________________________________________________________________________________________________________________________________________________
+Functional Requirements 
 
+1. Authentication and User Creation 
+
+FR-US-01: Influencer Registration: The influencer shall be able to register by providing name, email, contact number, gaming/esports category, social media handles, and password. 
+
+FR-US-02: Influencer Login: The influencer shall be able to log in using registered email/username and password.  
+
+FR-US-03: Brand Registration: The brand shall be able to register by providing company name, email, contact details, industry type, and password.  
+
+FR-US-04: Brand Login: The brand shall be able to log in using registered credentials. 
+
+FR-US- 05: Forgot Password: Users shall be able to reset their password through email verification.  
+
+FR-US- 06: Account Verification: The system shall verify newly registered influencers and brand accounts before activation. 
+
+2. Influencer Profile Management  
+
+FR-US- 07: Update Influencer Profile: Influencers shall be able to edit profile information at any time.  
+
+FR-US- 08: Add Social Media Handles: Influencers shall be able to add and manage their social media accounts.  
+
+FR-US-09: Manage Portfolio and Achievements: Influencers shall be able to upload achievements, tournament records, certifications, and portfolio details.  
+
+FR-US-10: Set Promotion Prices: Influencers shall be able to define pricing for different promotional activities. 
+
+FR-US-11: View Profile Status: Influencers shall be able to view account verification and profile completion status. 
+
+3. Brand Profile Management  
+
+FR-US-12: Update Brand Profile: Brands shall be able to edit company information and branding details.  
+
+FR-US-13: Upload Brand Product Details: Brands shall be able to upload product image, descriptions, and promotional information.  
+
+FR-US-14: Manage Favorite Influencers: Brands shall be able to maintain a shortlist of preferred influencers. 
+
+4. Influencer Discovery and Search  
+
+FR-US-15: Search Influencers: Brands shall be able to search for influencers using keywords.  
+
+FR-US-16: Filter Influencers: Brands shall be able to filter influencers based on category, audience size, engagement rate, and price range. 
+
+FR-US-17: View Influencer: Profiles Brands shall be able to view detailed influencer profiles.  
+
+FR-US-18: View Influencer Pricing: Brands shall be able to view influencer promotion pricing. 
+
+5. Collaboration Management  
+
+FR-US-19: Send Collaboration Requests: Brands shall be able to send collaboration requests to influencers.  
+
+FR-US-20: View Collaboration Requests: Influencers shall be able to view incoming collaboration requests.  
+
+FR-US-21: Accept Collaboration Requests: Influencers shall be able to accept collaboration requests.  
+
+FR-US-22: Reject Collaboration Requests: Influencers shall be able to reject collaboration requests.  
+
+FR-US-23: Manage Collaboration Status: The system shall maintain collaboration statuses such as Pending, Accepted, Rejected, Active, and Completed.  
+
+FR-US-24: View Collaboration History: Users shall be able to view previous collaborations.  
+
+FR-US-25: Cancel Collaboration Requests: Brands shall be able to withdraw pending collaboration requests. 
+
+6. Notifications Management  
+
+FR-US-26: Collaboration Notifications: The system shall notify users regarding collaboration requests and updates.  
+
+FR-US-27: Account Status Notifications: The system shall notify users of verification and account approval status. 
+
+7. Campaign Tracking and Analytics  
+
+FR-US-28: Track Campaign Progress: Brands shall be able to monitor ongoing campaign progress. 
+
+FR-US-29: Track Campaign Performance: Brands shall be able to view campaign performance metrics.  
+
+FR-US-30: View Influencer Analytics Dashboard: Influencers shall be able to access analytics dashboards showing collaboration and engagement statistics.  
+
+FR-US-31: Generate Reports: The system shall generate campaign and collaboration reports.  
+
+FR-US-32: View Analytics Reports: Brands and influencers shall be able to view analytics and performance reports. 
+
+8. Administration Functions  
+
+FR-US-33: Verify Influencers: Admin shall verify influencer accounts.  
+
+FR-US-34: Verify Brands: Admin shall verify brand accounts.  
+
+FR-US-35: Approve or Reject Accounts: Admin shall approve or reject newly registered accounts.  
+
+FR-US-36: Manage Users: Admin shall manage user accounts and platform access.  
+
+FR-US-37: Monitor Platform Activities: Admin shall monitor user activities and platform operations.  
+
+FR-US-38: View Reports and Analytics: Admin shall access platform-wide reports and analytics.  
+
+FR-US-39: Manage Categories: Admin shall create, update, and delete gaming and esports categories. 
+
+FR-US-40: Manage Platform Settings: Admin shall configure platform settings and policies.  
+
+FR-US-41: Suspend or Reactivate Accounts: Admin shall suspend or reactivate user accounts when necessary. 
+
+ 
+
+ 
+
+ 
 Brands often struggle to choose the right influencers for marketing because many influencers have fake followers or fake engagement, which makes their popularity misleading. Even genuine influencers may not have an audience that matches the brand's target customers, leading to ineffective campaigns.
 
-It is also difficult to measure the real return on investment (ROI) since likes and views do not directly reflect sales, and tracking actual conversions is not always reliable. In addition, identifying new and emerging influencers at the right time is challenging
+It is also difficult to measure the real return on investment (ROI) since likes and views do not directly reflect sales, and tracking actual conversions is not always reliable. In addition, identifying new and emerging influencers at the right time is challenging 
+
+
+
